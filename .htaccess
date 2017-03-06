@@ -1,0 +1,2 @@
+# Parse KML file as PHP
+AddType application/x-httpd-php .kml

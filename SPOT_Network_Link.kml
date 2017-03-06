@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<NetworkLink>
+	<name>SPOTs</name>
+	<flyToView>0</flyToView>
+	<Url>
+		<href>https://www.example.com/spot2kml.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>60</refreshInterval>
+	</Url>
+</NetworkLink>
+</kml>
